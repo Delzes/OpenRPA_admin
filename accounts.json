@@ -1,0 +1,72 @@
+{
+  "_comment": "Sample file. Copy next to RDPManager.exe. Fields: name, machine, username, password. Optional: port, enabled.",
+  "settings": {
+    "fullscreen": true,
+    "multimon": false,
+    "no_consent_prompt": true,
+    "connect_delay_ms": 450,
+    "prompt_for_credentials": false
+  },
+  "accounts": [
+    {
+      "name": "Robot 01",
+      "machine": "ROBOT-PC-01",
+      "username": "DOMAIN\\robot01",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 02",
+      "machine": "ROBOT-PC-01",
+      "username": "DOMAIN\\robot02",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 03",
+      "machine": "ROBOT-PC-01",
+      "username": "DOMAIN\\robot03",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 04",
+      "machine": "ROBOT-PC-01",
+      "username": "DOMAIN\\robot04",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 05",
+      "machine": "ROBOT-PC-01",
+      "username": "DOMAIN\\robot05",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 06",
+      "machine": "ROBOT-PC-02",
+      "username": "DOMAIN\\robot06",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 07",
+      "machine": "ROBOT-PC-02",
+      "username": "DOMAIN\\robot07",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 08",
+      "machine": "ROBOT-PC-02",
+      "username": "DOMAIN\\robot08",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 09",
+      "machine": "ROBOT-PC-02",
+      "username": "DOMAIN\\robot09",
+      "password": "CHANGE_ME"
+    },
+    {
+      "name": "Robot 10",
+      "machine": "ROBOT-PC-02",
+      "username": "DOMAIN\\robot10",
+      "password": "CHANGE_ME"
+    }
+  ]
+}
